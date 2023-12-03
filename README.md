@@ -1,4 +1,4 @@
-# Haiku Generator Project README
+# Haiku Generator and Analyzer Project README
 
 ## Abstract
 This project combines the worlds of Artificial Intelligence and poetry by creating a haiku generator. Using Rob Gonsalves' Deep Haiku Llama 2 model as a foundation, we trained our dataset to generate haikus. The project involves a blend of technologies including Google Colab, Flask server, and a Streamlit app, creating an AI-powered tool that crafts haikus in the traditional 5-7-5 syllable structure, a mixture of technology and the linguistic arts.
